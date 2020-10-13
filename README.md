@@ -1,1 +1,1 @@
-Solved hard! :) wu lisp not statutory
+Solved hard in 43s! :) wu lisp not statutory
