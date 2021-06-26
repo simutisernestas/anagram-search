@@ -1,1 +1,2 @@
-Solved hard in 43s! :) wu lisp not statutory
+Hard solution for https://followthewhiterabbit.trustpilot.com/cs/step3.html
+wu lisp not statutory
