@@ -190,7 +190,7 @@ int main()
 		phrase_char_count[c - 'a']++;
 
 	ifstream file;
-	file.open("/home/ernestas/Downloads/wordlist");
+	file.open("../wordlist");
 	if (!file.is_open())
 	{
 		cout << "can't open file\n";
